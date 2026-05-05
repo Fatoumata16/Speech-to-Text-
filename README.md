@@ -43,6 +43,12 @@ Ces scores correspondent a un premier prototype fonctionnel. Les principaux levi
 ### 5) Sortie interface graphique - exemple 2
 ![Interface exemple 2](assets/screenshots/capture-ecran-5.png)
 
+### 6) Sortie interface graphique 
+![Interface exemple 1](assets/screenshots/capture-ecran-6.png)
+
+### 7) Sortie interface graphique - 
+![Interface exemple 2](assets/screenshots/capture-ecran-7.png)
+
 ## Lancer le projet
 
 ### Prerequis
